@@ -17,8 +17,8 @@
                         <tr>
                             <th>STT</th>
                             <th>Tên</th>
-                            <th>Số điện thoại</th>
-                            <th></th>
+                            <th>Số điện thoại 1</th>
+                            <th>Số điện thoại 2</th>
                             <th>Email</th>
                             <th>FB</th>
                             <th>Company</th>
